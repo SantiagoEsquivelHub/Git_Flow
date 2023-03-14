@@ -1,0 +1,7 @@
+.victor{
+    display: flex;
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
